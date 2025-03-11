@@ -1,2 +1,7 @@
-# AWT
+# AWT ERC-20
+
 Aegis Wallet Token
+
+Contract Address: 0xA93BD78947CB9f1B10A5CF967915Bae393F07330
+
+URL: https://etherscan.io/address/0xA93BD78947CB9f1B10A5CF967915Bae393F07330

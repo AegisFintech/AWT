@@ -1,0 +1,2 @@
+# AWT
+Aegis Wallet Token
